@@ -1,3 +1,3 @@
-photo Portifolio
+Photo Portifolio
 
 Improving my git/github skills
